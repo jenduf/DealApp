@@ -1,0 +1,2 @@
+Project: DealTaker DealShaker
+API Key: REP1EJUPWFQNHRKUYQPT

@@ -1,0 +1,597 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 32
+/svn/blockdot_blockdot/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/blockdot_blockdot/!svn/ver/580/DealShaker/trunk/DealShaker/DealShaker
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/main.m
+END
+PiggyBankLayer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/PiggyBankLayer.mm
+END
+DataArchiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/DataArchiver.h
+END
+sfx_success.wav
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/sfx_success.wav
+END
+DataArchiver.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/DataArchiver.m
+END
+Pig_Complete_01b.pod
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Pig_Complete_01b.pod
+END
+DealViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/DealViewController.h
+END
+PiggyBankWorld.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/PiggyBankWorld.mm
+END
+PimpResultsViewController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/PimpResultsViewController.mm
+END
+PiggyBankLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/PiggyBankLayer.h
+END
+fps_images.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/fps_images.png
+END
+PimpIcon.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/PimpIcon.h
+END
+PimpResultsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/PimpResultsViewController.xib
+END
+DealShakerAppDelegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/DealShakerAppDelegate.mm
+END
+PimpIcon.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/PimpIcon.m
+END
+PimpViewController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/PimpViewController.mm
+END
+HomeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/HomeViewController.h
+END
+BlockdotAdService.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/BlockdotAdService.h
+END
+IconDownloader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/IconDownloader.mm
+END
+sparks2.plist
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/sparks2.plist
+END
+BlockdotAdService.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/BlockdotAdService.m
+END
+ShareViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/ShareViewController.xib
+END
+DealShaker-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/blockdot_blockdot/!svn/ver/1128/DealShaker/trunk/DealShaker/DealShaker/DealShaker-Info.plist
+END
+ShareViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/ShareViewController.h
+END
+PimpViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/PimpViewController.h
+END
+SearchResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/SearchResult.h
+END
+Deal.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Deal.h
+END
+ShareViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/ShareViewController.m
+END
+CategoryViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/CategoryViewController.xib
+END
+RandomSprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/RandomSprite.h
+END
+sfx_buttonClick.wav
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/sfx_buttonClick.wav
+END
+SearchResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/SearchResult.m
+END
+Deal.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Deal.m
+END
+Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Constants.h
+END
+RandomSprite.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/RandomSprite.m
+END
+RestClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/RestClient.h
+END
+DealShaker-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/DealShaker-Prefix.pch
+END
+RestClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/RestClient.m
+END
+CategoryVO.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/CategoryVO.h
+END
+PiggyBankWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/PiggyBankWorld.h
+END
+CategoryVO.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/CategoryVO.m
+END
+SceneManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/SceneManager.h
+END
+SceneManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/SceneManager.m
+END
+DealShakerAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/DealShakerAppDelegate.h
+END
+Reachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Reachability.h
+END
+RegexKitLite.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/RegexKitLite.h
+END
+BaseSprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/BaseSprite.h
+END
+AboutViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/AboutViewController.xib
+END
+Reachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Reachability.m
+END
+RegexKitLite.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/RegexKitLite.m
+END
+BaseSprite.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/BaseSprite.m
+END
+IconDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/IconDownloader.h
+END
+BaseLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/BaseLayer.h
+END
+Fractured_Pig.pod
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Fractured_Pig.pod
+END
+AboutViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/AboutViewController.h
+END
+ShakeLayer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/ShakeLayer.mm
+END
+sfx_pigBreak.wav
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/sfx_pigBreak.wav
+END
+BaseLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/BaseLayer.m
+END
+BrokenLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/BrokenLayer.h
+END
+BrokenLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/BrokenLayer.m
+END
+Utils.mm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Utils.mm
+END
+PimpResultsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/PimpResultsViewController.h
+END
+IntroLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/IntroLayer.h
+END
+ShakeLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/ShakeLayer.h
+END
+Categories.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Categories.plist
+END
+AboutViewController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/AboutViewController.mm
+END
+JoystickThumb.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/JoystickThumb.png
+END
+DetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/DetailViewController.xib
+END
+IntroLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/IntroLayer.m
+END
+BrokenScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/BrokenScene.h
+END
+CategoryViewController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/blockdot_blockdot/!svn/ver/607/DealShaker/trunk/DealShaker/DealShaker/CategoryViewController.mm
+END
+Joystick.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Joystick.h
+END
+PimpViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/PimpViewController.xib
+END
+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Utils.h
+END
+DetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/DetailViewController.h
+END
+BrokenScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/BrokenScene.m
+END
+Joystick.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Joystick.m
+END
+sparks.plist
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/sparks.plist
+END
+IntroScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/IntroScene.h
+END
+HomeViewController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/HomeViewController.mm
+END
+ShakeScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/ShakeScene.h
+END
+CCNodeExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/CCNodeExtensions.h
+END
+Pig_Clothed.pod
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Pig_Clothed.pod
+END
+BackgroundLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/BackgroundLayer.h
+END
+CategoryViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/blockdot_blockdot/!svn/ver/607/DealShaker/trunk/DealShaker/DealShaker/CategoryViewController.h
+END
+Screenshot.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Screenshot.h
+END
+IntroScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/IntroScene.m
+END
+ShakeScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/ShakeScene.m
+END
+CCNodeExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/CCNodeExtensions.m
+END
+Default.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Default.png
+END
+BackgroundLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/BackgroundLayer.m
+END
+Screenshot.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/Screenshot.m
+END
+sfx_shake01.wav
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/sfx_shake01.wav
+END
+DetailViewController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/DetailViewController.mm
+END
+sfx_shake02.wav
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/sfx_shake02.wav
+END
+sfx_shake03.wav
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/sfx_shake03.wav
+END
+Icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/blockdot_blockdot/!svn/ver/579/DealShaker/trunk/DealShaker/DealShaker/Icon.png
+END
+DealViewController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/blockdot_blockdot/!svn/ver/543/DealShaker/trunk/DealShaker/DealShaker/DealViewController.mm
+END

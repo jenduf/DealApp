@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>66FD1CA7-10C2-4809-ABA9-41CA788C0806</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DealApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>946B6567-3AEF-48CB-91FC-B3050E0F5115</key>
+		<string>https://github.com/jenduf/DealApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DealApp/DealApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>946B6567-3AEF-48CB-91FC-B3050E0F5115</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jenduf/DealApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>946B6567-3AEF-48CB-91FC-B3050E0F5115</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>946B6567-3AEF-48CB-91FC-B3050E0F5115</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DealApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

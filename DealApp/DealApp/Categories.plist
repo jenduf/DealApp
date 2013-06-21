@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>categories</key>
+	<array>
+		<dict>
+			<key>category_id</key>
+			<integer>47</integer>
+			<key>label</key>
+			<string>Arts &amp; Crafts</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>15</integer>
+			<key>label</key>
+			<string>Automotive</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>4</integer>
+			<key>label</key>
+			<string>Babies &amp; Kids</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>5</integer>
+			<key>label</key>
+			<string>Books &amp; Magazines</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>50</integer>
+			<key>label</key>
+			<string>Clothing &amp; Accessories</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>6</integer>
+			<key>label</key>
+			<string>Computers &amp; Office</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>65</integer>
+			<key>label</key>
+			<string>Entertainment</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>25</integer>
+			<key>label</key>
+			<string>Flowers &amp; Gifts</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>28</integer>
+			<key>label</key>
+			<string>Food &amp; Dining</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>70</integer>
+			<key>label</key>
+			<string>Grocery</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>48</integer>
+			<key>label</key>
+			<string>Health &amp; Beauty</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>49</integer>
+			<key>label</key>
+			<string>Home &amp; Garden</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>51</integer>
+			<key>label</key>
+			<string>Services</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>45</integer>
+			<key>label</key>
+			<string>Sports &amp; Outdoors</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>18</integer>
+			<key>label</key>
+			<string>Toys</string>
+		</dict>
+		<dict>
+			<key>category_id</key>
+			<integer>45</integer>
+			<key>label</key>
+			<string>Travel</string>
+		</dict>
+	</array>
+</dict>
+</plist>

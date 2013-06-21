@@ -1,0 +1,19 @@
+//
+//  IntroScene.h
+//  DealShaker
+//
+//  Created by Jennifer Duffey on 7/27/11.
+//  Copyright 2011 __MyCompanyName__. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import "cocos2d.h"
+
+@class BackgroundLayer, IntroLayer;
+@interface IntroScene : CCScene 
+{
+	BackgroundLayer *backgroundLayer;
+	IntroLayer *introLayer;
+}
+
+@end
